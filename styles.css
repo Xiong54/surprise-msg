@@ -76,3 +76,11 @@ a:active {
 a::after{
     color: yellow;
 }
+
+img{
+    border-radius: 50%;
+}
+
+.fam{
+    font-size: 15px;
+}
